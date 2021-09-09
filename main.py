@@ -1,0 +1,1 @@
+kolonija = 'rale, veljko'
